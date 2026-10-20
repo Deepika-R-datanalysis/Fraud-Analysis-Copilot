@@ -137,4 +137,4 @@ fraud-copilot/
 
 ## Author
 
-_Your name_, data analyst. _Link to LinkedIn_
+Deepika Ravikumar, Data analyst.https://www.linkedin.com/in/deepikaravikumar250989
